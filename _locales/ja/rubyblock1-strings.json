@@ -170,6 +170,7 @@
     "loops.runInBackground|block": "30:バックグラウンドで実行(じっこう)する",
     "Math.Math_randint|block": "10:ランダムな数字(すうじ)を選択(せんたく): %min| から %limit| まで",
     "Math.randomRange|block": "20:ランダムな数字(すうじ)を選択(せんたく): %min| から %limit| まで",
+    "mobs.animal|block":"生(い)き物(もの) %name",
     "mobs.spawn|block": "10:%entity=minecraftAnimal を|%destination=minecraftCreatePosition |に 出現(しゅつげん)させる",
     "mobs.onMobKilled|block": "20:%mob=minecraftAnimal|が行動(こうどう)不能(ふのう)にされた時(とき)",
     "mobs.kill|block": "30:次(つぎ)の対象(たいしょう)を行動(こうどう)不能(ふのう)にする %target=minecraftTarget",
