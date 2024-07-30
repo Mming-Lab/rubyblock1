@@ -1,1 +1,4 @@
-s
+{
+    "for %1 from 0 to %2": "変数(へんすう)%1を0～%2に変(か)えてくりかえす",
+    "{id:category}Basic": "{id:category}基本(きほん)"
+}
