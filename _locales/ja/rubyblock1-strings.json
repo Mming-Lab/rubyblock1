@@ -1,5 +1,7 @@
-
 {
+    "on start %1 %2": "最初(さいしょ)だけ %1 %2",
+    "for %1 from 0 to %2": "変数(へんすう)%1を0～%2に変(か)えてくりかえす",
+    "{id:category}Basic": "{id:category}基本(きほん)",
     "AgentAssist.PlaceOnMove|block": "10:動(うご)きながら置(お)く",
     "AgentAssist.PlaceFromAnySlot|block": "20:アイテムがなくなったら次(つぎ)のアイテムを使(つか)う",
     "AgentAssist.DestroyObstacles|block": "30:障害物(しょうがいぶつ)を壊(こわ)す",
